@@ -4,11 +4,11 @@ Quem eu sou?
 
 E agora, eu sou:<br>
 👩‍💻 Desenvolvedora de Software<br>
-💻 Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na <a href="https://www.anhanguera.com/curso/analise-e-desenvolvimento-de-sistemas/)/">Faculdade Anhaguera</a><br>
-🌱 Aprendendo mais sobre DATA SCIENCE, PYTHON E DESENVOLVIMENTO EM GERAL<br>
+💻 Tecnologa em Análise e Desenvolvimento de Sistemas pela <a href="https://www.anhanguera.com/curso/analise-e-desenvolvimento-de-sistemas/)/">Faculdade Anhaguera</a><br>
+🌱 Aprendendo mais sobre Java<br>
 ✨Sobre mim: Analítica | Curiosa, Adepta do aprendizado contínuo | Animada |<br>
 🐱 Mãe de pet<br>
-🩰 Bailarina nas horas vagas<br>
+🩰 Bailarina clássica<br>
 🦹‍♀️ Cosplayer como boa geek que sou<br>
 🌍 São Paulo, Brasil<br>
 
@@ -20,7 +20,7 @@ E agora, eu sou:<br>
 </p><br>
 
 ## 💬 Social<br>
-Onde me encontrar:<br>
+Hello world:<br>
 
 <a href="https://www.linkedin.com/in/jenifer-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:jnfrdnts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
@@ -33,10 +33,6 @@ Onde me encontrar:<br>
   
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-  
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JeniDantas&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-<br><br>
 
 
 
