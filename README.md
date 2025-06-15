@@ -2,8 +2,6 @@
 
 ### 💼 Cargo Atual: Junior Site Reliability Engineer
 
-### 📍 Localização: São Paulo, Brasil
-
 ### ⚡ Curiosidade: sou bailarina clássica e cosplayer
 
 ## 🛠️ Tecnologias e Ferramentas
