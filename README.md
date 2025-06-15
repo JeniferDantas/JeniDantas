@@ -1,13 +1,4 @@
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
-
-```
-
-# 🖖 Eu sou a Jeni
+# 🖖 Hello world! Eu sou a Jeni
 
 ### 💼 Cargo Atual: Junior Site Reliability Engineer
 
