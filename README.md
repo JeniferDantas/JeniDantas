@@ -7,7 +7,7 @@ public class Main {
 
 ```
 
-# 🖖 Eu sou a Jeni - Junior Site Reliability Engineer
+# 🖖 Eu sou a Jeni
 
 <p style="font-family: 'Courier New', Courier, monospace;">"Seja curioso. Leia bastante. Experimente coisas novas. Acredito que o que muitos chamam de inteligência é, na verdade, apenas curiosidade." — Aaron Swartz</p>
 
