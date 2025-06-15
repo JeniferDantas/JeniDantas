@@ -1,17 +1,8 @@
-# 🖖 Eu sou a Jeni
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=800080&size=30&center=true&vCenter=true&width=1000&lines=Hello,+World!+🖖;I+am+Jeni,+Be+Welcome+to+my+GitHub!+👩‍💻" alt="Typing SVG">
+</a>
 
 <p style="font-family: 'Courier New', Courier, monospace;">"Seja curioso. Leia bastante. Experimente coisas novas. Acredito que o que muitos chamam de inteligência é, na verdade, apenas curiosidade." — Aaron Swartz</p>
-
-### 💼 Cargo Atual: Junior Site Reliability Engineer
-
-### 📍 Localização: São Paulo, Brasil
-
-### ⚡ Curiosidade: sou bailarina clássica e cosplayer
-
-## 📫 Contatos:
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jenifer-dantas/) &nbsp;
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"/>](mailto:jnfrdnts@gmail.com)
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -45,6 +36,10 @@ mindmap
 
 ```
 
-## 🐍GitSnake<br>
+## GitHub Stats <br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JeniDantas&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&bg_color=0d1117" alt="Jenifer Dantas GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeniDantas&layout=compact&hide_border=true&title_color=8A2BE2&text_color=FFFFFF&bg_color=0d1117" />
+</div>
   
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
